@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "RGB"
-  s.version      = "0.0.1"
-  s.summary      = "RGB 0.0.1"
+  s.version      = "0.0.2"
+  s.summary      = "RGB 0.0.2"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = %{
-    AlertView A pop-up framework, Can be simple and convenient to join your project.
+    RGB color value to the UIColor conversion kit.
   }
 
   s.homepage     = "https://github.com/roycms/RGB"
@@ -80,7 +80,7 @@ s.license          = { :type => "MIT", :file => "LICENSE" }
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/roycms/RGB.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/roycms/RGB.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
