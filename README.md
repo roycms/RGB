@@ -17,6 +17,9 @@ RGB color value to the UIColor conversion kit.
 ## Use 
 return type UIColor
 ```objective-c
+UIColor *color = RGB16(0x3d3d3d);
+UIColor *color = RGB(@"3d3d3d");
+
 [self.view setBackgroundColor:RGB(@"#1abc9d")];
 [self.view setBackgroundColor:RGB16(0x1abc9d)];
 ```
