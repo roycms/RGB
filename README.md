@@ -1,4 +1,4 @@
- ![Logo](https://github.com/roycms/RGB/blob/master/RGB/logo.png)
+ ![Logo](https://roycms.github.io/RGB/RGB/logo.png)
  RGB
 ===
 RGB color value to the UIColor conversion kit.
