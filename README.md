@@ -11,7 +11,7 @@ RGB color value to the UIColor conversion kit.
 ## Installation
 - Import the main header file：`#import "RRGB.h"`
 
-## cocoapods 
+## CocoaPods 
 `  pod 'RGB' `
 
 ## Use 
